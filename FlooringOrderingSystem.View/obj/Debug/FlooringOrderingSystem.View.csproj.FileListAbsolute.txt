@@ -1,0 +1,9 @@
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\bin\Debug\FlooringOrderingSystem.View.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\bin\Debug\FlooringOrderingSystem.View.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\obj\Debug\FlooringOrderingSystem.View.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\obj\Debug\FlooringOrderingSystem.View.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\obj\Debug\FlooringOrderingSystem.View.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\obj\Debug\FlooringOrderingSystem.View.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\bin\Debug\FlooringOrderingSystem.Model.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\bin\Debug\FlooringOrderingSystem.Model.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.View\obj\Debug\FlooringOrderingSystem.View.csproj.CopyComplete
