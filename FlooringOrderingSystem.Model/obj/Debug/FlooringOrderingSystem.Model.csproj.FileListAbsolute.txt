@@ -4,3 +4,9 @@ C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\Floori
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.csproj.CoreCompileInputs.cache
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.dll
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\bin\Debug\FlooringOrderingSystem.Model.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\bin\Debug\FlooringOrderingSystem.Model.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.Model\obj\Debug\FlooringOrderingSystem.Model.pdb

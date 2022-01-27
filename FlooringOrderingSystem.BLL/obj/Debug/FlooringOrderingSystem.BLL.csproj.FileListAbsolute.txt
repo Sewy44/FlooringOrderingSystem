@@ -9,3 +9,14 @@ C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\Floori
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Data.pdb
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Model.pdb
 C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\OOP-Mastery\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.csproj.CopyComplete
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.BLL.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.BLL.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Data.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Model.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Data.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\bin\Debug\FlooringOrderingSystem.Model.pdb
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.csproj.CopyComplete
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.dll
+C:\Users\Jamie\source\repos\sewy44-personal-public\FlooringOrderingSystem\FlooringOrderingSystem.BLL\obj\Debug\FlooringOrderingSystem.BLL.pdb
